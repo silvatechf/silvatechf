@@ -1,12 +1,37 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=500&lines=Security+Engineer+%7C+Backend+Engineer;Security+Automation+Builder" alt="Typing SVG" />
-</div>
+  <!-- ASSINATURA EXECUTIVA E TÍTULO PRINCIPAL -->
+  <p align="center">
+    <samp>
+      <b>FERNANDO SILVA</b> | FULLSTACK SECURITY ENGINEER
+    </samp>
+  </p>
 
-<div align="center">
+  <!-- MOTOR CINÉTICO TYPING SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=SECURITY+ENGINEERING;BACKEND+ARCHITECTURE;NEURAL+RISK+AUTOMATIONS" alt="Systems Engine" />
 
-  <a href="https://www.linkedin.com/in/fernando-silva-83b155a4/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FF5722?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <br/>
+
+  <!-- LINHA HUD COM MARCADOR DE PULSO EM BARCELONA -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/%F0%9F%93%8D_LOCATION-BARCELONA%20%E2%80%A2%20SPAIN-00ffaa?style=flat-square&labelColor=111111" alt="Location BCN" />
+    <img src="https://img.shields.io/badge/STACK-PYTHON%20__%20JAVA%2021%20__%20GO-36BCF7?style=flat-square&labelColor=111111" alt="Stack" />
+    <img src="https://img.shields.io/badge/COMPLIANCE-GDPR%20__%20ISO%2027001-5e3aff?style=flat-square&labelColor=111111" alt="Compliance" />
+  </p>
+
+  <br/>
+
+  <!-- CANAIS CHAMATIVOS COM CORES DE ALTA INTENSIDADE -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/fernando-silva-83b155a4/" target="_blank" rel="noopener">
+      <img src="https://img.shields.io/badge/LINKEDIN-_SECURE_CHANNEL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:fernando.silva@fsf.dev">
+      <img src="https://img.shields.io/badge/EMAIL-_DIRECT_AUDIT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
 </div>
 
 ---
