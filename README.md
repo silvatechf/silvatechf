@@ -52,26 +52,24 @@ My core differentiator is combining a strong **backend development background (J
 ## 📊 GitHub & Professional Stats
 
 <div align="center">
-  <!-- Badges Dinâmicas e Estáveis com Seus Dados Reais -->
-  <img src="https://img.shields.io/github/followers/silvatechf?label=GitHub%20Followers&style=flat-square&color=36BCF7" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/silvatechf?label=Stars%20Received&style=flat-square&color=00E5FF" alt="Stars" />
-  <img src="https://img.shields.io/github/repos/silvatechf?label=Total%20Repositories&style=flat-square&color=0077B5" alt="Repositories" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=silvatechf&show_icons=true&theme=tokyonight&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&bg_color=0f141c&hide_border=false" alt="GitHub Stats" />
+  
+  <br/>
+  <br/>
+
+  <img src="https://img.shields.io/badge/Followers-150%2B-243A5E?style=flat&logo=github&logoColor=white" alt="Followers" /> <img src="https://img.shields.io/badge/Stars_Received-10%2B-243A5E?style=flat&logo=github-sponsors&logoColor=white" alt="Stars" /> <img src="https://img.shields.io/badge/Commits-500%2B-243A5E?style=flat&logo=git&logoColor=white" alt="Commits" />
 </div>
 
 ---
 
 ## 🛡️ Cybersecurity & Certifications
 
-<div align="center">
-  <!-- Suas Credenciais Profissionais Alinhadas e Padronizadas -->
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/MICROSOFT-SECURITY_AGENT-blue?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Security Agent" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/DEVSECOPS-GDPR_%26_COMPLIANCE-green?style=for-the-badge&logo=gitguard&logoColor=white" alt="GDPR & Compliance" />
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MICROSOFT-SECURITY_AGENT-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Security Agent" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/DEVSECOPS-GDPR_%26_COMPLIANCE-107C41?style=for-the-badge&logo=git&logoColor=white" alt="GDPR & Compliance" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <font color="#444444" size="6">✦</font>
+</p>
+
