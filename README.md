@@ -87,14 +87,31 @@ My core differentiator is combining a strong **backend development background (J
 
 ---
 
-## 🛡️ Cybersecurity & Certifications
+## 🛡️ Cybersecurity Infrastructure & Cloud Hardening
 
-<p align="center">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MICROSOFT-SECURITY_AGENT-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Security Agent" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/DEVSECOPS-GDPR_%26_COMPLIANCE-107C41?style=for-the-badge&logo=git&logoColor=white" alt="GDPR & Compliance" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <font color="#444444" size="6">✦</font>
-</p>
+<div align="center">
 
+  <!-- PRIMEIRA LINHA: NÚCLEO DE CLOUD HARDENING (ELITE CLOUD) -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/AWS_CLOUD-SECURITY__ARCHITECT-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Security" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/GOOGLE_CLOUD-SECURE__INFRASTRUCTURE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Security" />
+  </p>
+
+  <!-- SEGUNDA LINHA: OPERAÇÕES AVANÇADAS DE SOC & DETECÇÃO (SIEM / XDR) -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/WAZUH_XDR-ENDPOINT__MONITORING-00A4EF?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh Security" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/SPLUNK_SIEM-DETECTION__ENGINEERING-000000?style=for-the-badge&logo=splunk&logoColor=00FF00" alt="Splunk SOC" />
+  </p>
+
+  <!-- TERCEIRA LINHA: DEFESA ATIVA, CTI E COMPLIANCE GLOBAL -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/THREAT_INTEL-//_CTI__AUTOMATION-00ffaa?style=for-the-badge&logo=virustotal&logoColor=white" alt="Threat Intelligence" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/DEVSECOPS-GDPR_%26_COMPLIANCE-107C41?style=for-the-badge&logo=git&logoColor=white" alt="GDPR Compliance" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <font color="#444444" size="6">✦</font>
+  </p>
+
+</div>
