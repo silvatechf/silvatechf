@@ -23,7 +23,7 @@ My core differentiator is combining a strong **backend development background (J
 
 ## 🚀 Key Projects & Impact
 
-*   **CodeGuard AI**: An operational security auditor built to integrate compliance and vulnerability scanning within DevSecOps pipelines.
+*   **CodeGuard AI**: An operational security auditor built to integrate compliance and vulnerability(GDPR and AI Act) scanning within DevSecOps pipelines.
 *   **Real-Time Triage Pipeline**: Built backend architecture capable of processing logs in real time to accelerate incident triage.
 *   **SOAR & Automation Utilities**: Developed custom Python automation scripts to drastically mitigate alert fatigue for security operations teams.
 *   **SSH Monitoring Labs**: Designed mechanisms to proactively detect and alert unauthorized access attempts.
