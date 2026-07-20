@@ -15,7 +15,7 @@
   <!-- LINHA HUD COM MARCADOR DE PULSO EM BARCELONA -->
   <p align="center">
     <img src="https://img.shields.io/badge/%F0%9F%93%8D_LOCATION-BARCELONA%20%E2%80%A2%20SPAIN-00ffaa?style=flat-square&labelColor=111111" alt="Location BCN" />
-    <img src="https://img.shields.io/badge/STACK-PYTHON%20__%20JAVA%2021%20__%20GO-36BCF7?style=flat-square&labelColor=111111" alt="Stack" />
+    <img src="https://img.shields.io/badge/STACK-PYTHON%20__%20JAVA%2021%20__%20JS-36BCF7?style=flat-square&labelColor=111111" alt="Stack" />
     <img src="https://img.shields.io/badge/COMPLIANCE-GDPR%20__%20ISO%2027001-5e3aff?style=flat-square&labelColor=111111" alt="Compliance" />
   </p>
 
