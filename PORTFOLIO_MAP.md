@@ -90,14 +90,9 @@ These repositories show learning progression. They are not presented as equivale
 - [Ecommerce Exercise](https://github.com/silvatechf/Ecommerce)
 - [Music Theory App](https://github.com/silvatechf/AppTeoriaMusical)
 
-## 5. Repositories awaiting classification
+## 5. Additional projects
 
-These need individual inspection before a final category can be assigned: ProjCurriculo, ProjTabela, Exercicio1html, MatrizNotasLuciana, pratica-conta, guia-aprendizado, jogo-blockitus, blokus, Gui.a-app, guia-app-origin, gestion-leads, regras_arquitec, silvatechf-portifolio, ptojetos-frameworks, papozen-apresentacao, site-henrique-sonhador, ai-act-esg-compliance-agent, and assistent_voz_anita. Some may be private, duplicated, renamed, or unavailable; this is not a recommendation to publish them.
+Beyond the projects highlighted above, my GitHub profile includes smaller experiments, personal applications, and coursework across Python, Java, web development, and security.
 
-## Curation rules
+I keep the main portfolio focused on projects that best represent my current direction. For the broader archive, visit the [complete repository list](https://github.com/silvatechf?tab=repositories).
 
-1. Do not delete repositories as part of cleanup without reviewing their contents and history.
-2. Do not expose secrets, personal data, local databases, virtual environments, or generated files.
-3. Use English for recruiter-facing repository documentation; Spanish is also acceptable. Product UI language can remain appropriate to its users.
-4. Label academic exercises and labs honestly.
-5. Promote a project to the featured shortlist only after checking implementation, setup, tests/CI, dependencies, and limitations.
