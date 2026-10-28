@@ -38,18 +38,28 @@ Barcelona, Spain &nbsp;·&nbsp; Open to junior opportunities
 
 ---
 
-##  The direction
+## The work I want to do
 
-I build **Python backend projects with an application-security focus**: APIs, authorization, security testing, static analysis, and developer-workflow automation.
+I’m Fernando, a Python developer in Barcelona building practical projects at the intersection of **backend engineering and application security**.
 
-I value engineering that is **explicit, testable, and explainable** — including honest limits. I’m looking for a junior opportunity where I can contribute, learn from experienced engineers, and grow towards Application Security Engineering.
+I’m interested in the details that make software dependable: how an API handles identity and permissions, how a test proves that access is denied when it should be, how a security finding is recorded, and how another developer can reproduce the result. I use personal projects and labs to investigate those questions, then document what worked, what did not, and what still needs improvement.
+
+I’m looking for a **junior Python Backend or Application Security opportunity** where I can contribute, learn through code review, and grow alongside an engineering team.
 
 <div align="center">
 
-| 01 &nbsp; Backend | 02 &nbsp; AppSec | 03 &nbsp; Engineering |
+| Backend | Application security | Engineering habits |
 |:--:|:--:|:--:|
-| APIs · Python · FastAPI | Secure coding · Authorization · SAST | Tests · CI · Observability |
+| Python · FastAPI · REST APIs | Authorization · Static analysis · Secure coding | Tests · CI · Clear documentation |
+
 </div>
+
+## How I approach a project
+
+- **Start with a concrete problem.** Keep the scope understandable and the intended behavior explicit.
+- **Test the boundary cases.** Include denial paths and failure conditions, not only successful requests.
+- **Make results reviewable.** Document setup, assumptions, tests, and known limitations.
+- **Be precise about maturity.** A learning project or lab is labelled as such; a passing test suite is evidence, not a claim of production readiness.
 
 ## ✦ Featured work
 
