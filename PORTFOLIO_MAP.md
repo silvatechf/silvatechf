@@ -1,0 +1,103 @@
+# Portfolio Repository Map
+
+This index groups repositories by purpose so reviewers can distinguish job-focused projects from security labs, product experiments, and academic exercises.
+
+> **Curation status:** this is a working inventory based on available READMEs and partial source-tree reviews. Category placement is provisional until each repository's implementation, tests, setup, and maintenance status have been checked. Inclusion is not a claim of production readiness.
+
+## 1. Primary backend and AppSec portfolio
+
+- [Authorization Gateway](https://github.com/silvatechf/authorization-gateway) — FastAPI authorization, JWT/JWKS verification, tenant isolation, and policy testing.
+- [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner) — Python AST-based static-analysis learning project with structured audit events.
+- [Secure Data Vault & Threat Intelligence Lab](https://github.com/silvatechf/Secure-Data-Vault-Threat-Intelligence-Lab) — security-focused data handling and threat-intelligence lab.
+- [CyberReport-Pro](https://github.com/silvatechf/CyberReport-Pro) — Python security-reporting project.
+- [MEI em Dia](https://github.com/silvatechf/mei-app) — React/Vite PWA; a complementary product project.
+
+## 2. Security labs
+
+### Detection, telemetry, and incident triage
+- [Triage Pipeline](https://github.com/silvatechf/triage-pipeline) — simulated authentication telemetry and heuristic risk scoring.
+- [SSH Monitoring Lab](https://github.com/silvatechf/ssh-monitoring-lab) — SSH security monitoring.
+- [Network Security Analytics](https://github.com/silvatechf/network-security-analytics) — network-event and security-data analysis.
+- [SecSmart](https://github.com/silvatechf/SecSmart) — security tooling; scope review pending.
+- [NyxOne Security Command Center](https://github.com/silvatechf/NyxOne-Security-Command-Center) — security tooling and pipeline experiment; review pending.
+
+### Attack-surface discovery and vulnerability analysis
+- [Async EASM](https://github.com/silvatechf/Async-EASM) — asynchronous HTTP exposure checks and optional Nuclei orchestration for authorized targets.
+- [RCESEC PHP](https://github.com/silvatechf/rcesec-php) — PHP security exercise; review pending.
+- [CodeGuard AI](https://github.com/silvatechf/codeguard-ai) — security-analysis experiment; architecture and deployment claims require validation.
+- [Framework F-Score](https://github.com/silvatechf/framework-fscore) — framework/security scoring experiment.
+- [MICV Runtime](https://github.com/silvatechf/micv-runtime) — runtime/tooling project; review pending.
+
+### Threat intelligence and research
+- [Spec CTI](https://github.com/silvatechf/spec-cti) — threat-intelligence and security-analysis platform; security PR open.
+- [Veredict CTI Lite](https://github.com/silvatechf/veredict-cti-lite) — threat-intelligence experiment.
+- [Global Intelligence Engine](https://github.com/silvatechf/Global-Intelligence-Engine) — intelligence aggregation and analysis experiment.
+- [CIEF](https://github.com/silvatechf/CIEF) — security/intelligence project; review pending.
+- [SICG Repo](https://github.com/silvatechf/sicg-repo) — security project; review pending.
+
+### Cloud and broader security experiments
+- [AWS Security Foundation](https://github.com/silvatechf/aws-security-foundation) — cloud-security learning.
+- [Security Report Assistant](https://github.com/silvatechf/security-report-assistant) — security-reporting experiment.
+- [Twin Transition Energy Optimization Agent](https://github.com/silvatechf/Twin-Transition-Energy-Optimization-Agent-) — energy optimization/AI experiment.
+- [Aura Sentinel Microservices Architecture](https://github.com/silvatechf/aura-sentinel-microservices-architecture) — architecture experiment; review pending.
+
+## 3. Application and full-stack projects
+
+- [AI Job Agent](https://github.com/silvatechf/ai-job-agent) — Java/Spring Boot and React job/CV analysis application.
+- [SmartSpend](https://github.com/silvatechf/SmartSpend-Java-React-Python-Fullstack) — Java, React, and Python finance application; some README claims need verification.
+- [Wildfire Observer](https://github.com/silvatechf/wildfire-observer) — Python-based wildfire-analysis application.
+- [PapoZen App](https://github.com/silvatechf/PapoZenApp) — application project.
+- [Sabor Global Site](https://github.com/silvatechf/sabor-global-site) — web project.
+- [Barcelona Urban Equity](https://github.com/silvatechf/barcelona-urban-equity) — civic/data project.
+- [SPN Inmob](https://github.com/silvatechf/spn-inmob) — property-related web project.
+- [Veredict BI Intelligence](https://github.com/silvatechf/veredict-bi-intelligence) — business-intelligence experiment.
+- [MedicInApp](https://github.com/silvatechf/MedicinApp) — application project.
+- [Escape Room HTML](https://github.com/silvatechf/escape-room-html) — web exercise.
+- [Clone of a Page](https://github.com/silvatechf/clone_of_a_page) — frontend practice.
+- [Mondrian Practice](https://github.com/silvatechf/mondrian-practica) — CSS/layout practice.
+- [Bootstrap Practice](https://github.com/silvatechf/bootstrap-practic1) — Bootstrap exercise.
+- [DCL Live Streamer](https://github.com/silvatechf/dcl-live-streamer) — streaming-related project.
+- [Tools for Everyday Life](https://github.com/silvatechf/-Tools_For_Everyday_Life) — utilities project.
+- [Personal HTML Portfolio](https://github.com/silvatechf/fernando-cv-html5-) — early portfolio exercise.
+
+## 4. Academic work and coding exercises
+
+These repositories show learning progression. They are not presented as equivalent to the featured projects.
+
+### Python and cybersecurity fundamentals
+- [Python Cybersecurity OOP](https://github.com/silvatechf/python-cybersec-poo)
+- [UF2176 EC03 Practice](https://github.com/silvatechf/UF2176_EC03_Practica)
+
+### Java fundamentals and object-oriented programming
+- [DIO Java Basics](https://github.com/silvatechf/dio-trilha-java-basico)
+- [DIO OOP Challenge](https://github.com/silvatechf/Dio_desafio_poo)
+- [Control Flow Challenge](https://github.com/silvatechf/DesafioControleFluxo)
+- [Bank Account Challenge](https://github.com/silvatechf/iconta-banco-desafio)
+- [Vehicle Exercise](https://github.com/silvatechf/Veiculo)
+- [Invoice Exercise](https://github.com/silvatechf/NotaFiscal)
+- [Travel System](https://github.com/silvatechf/sistema-viagem)
+- [Football Championship](https://github.com/silvatechf/campeonato-futebol)
+- [Veterinary Clinic](https://github.com/silvatechf/ClinicaVeterinaria)
+- [Grade Matrix](https://github.com/silvatechf/MatrizNotas)
+- [Java Design Patterns Lab](https://github.com/silvatechf/padroes-lab-projeto-java)
+- [Spring Design Patterns Lab](https://github.com/silvatechf/padroes-lad-projeto-spring)
+- [Santander Dev Week DIO API](https://github.com/silvatechf/santander-dev-week-dio-api)
+
+### Web and guided platform exercises
+- [DIO Open Source Lab](https://github.com/silvatechf/dio-lab-open-source)
+- [Sudoku DIO Challenge](https://github.com/silvatechf/sudoku-dio-desafio)
+- [Board DIO Challenge](https://github.com/silvatechf/board-desafio-dio)
+- [Ecommerce Exercise](https://github.com/silvatechf/Ecommerce)
+- [Music Theory App](https://github.com/silvatechf/AppTeoriaMusical)
+
+## 5. Repositories awaiting classification
+
+These need individual inspection before a final category can be assigned: ProjCurriculo, ProjTabela, Exercicio1html, MatrizNotasLuciana, pratica-conta, guia-aprendizado, jogo-blockitus, blokus, Gui.a-app, guia-app-origin, gestion-leads, regras_arquitec, silvatechf-portifolio, ptojetos-frameworks, papozen-apresentacao, site-henrique-sonhador, ai-act-esg-compliance-agent, and assistent_voz_anita. Some may be private, duplicated, renamed, or unavailable; this is not a recommendation to publish them.
+
+## Curation rules
+
+1. Do not delete repositories as part of cleanup without reviewing their contents and history.
+2. Do not expose secrets, personal data, local databases, virtual environments, or generated files.
+3. Use English for recruiter-facing repository documentation; Spanish is also acceptable. Product UI language can remain appropriate to its users.
+4. Label academic exercises and labs honestly.
+5. Promote a project to the featured shortlist only after checking implementation, setup, tests/CI, dependencies, and limitations.
