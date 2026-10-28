@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://github.com/silvatechf">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B18,45:111B37,100:174C70&text=FERNANDO%20SILVA&fontColor=F3F7FF&fontSize=48&fontAlignY=39&desc=PYTHON%20BACKEND%20%E2%80%A2%20APPLICATION%20SECURITY&descAlignY=59&descSize=15&animation=fadeIn" alt="Fernando Silva — Python Backend and Application Security" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:080B18,45:111B37,100:174C70&text=FERNANDO%20SILVA&fontColor=F3F7FF&fontSize=44&fontAlignY=38&desc=PYTHON%20BACKEND%20%E2%80%A2%20APPLICATION%20SECURITY&descAlignY=60&descSize=14&animation=fadeIn" alt="Fernando Silva — Python Backend and Application Security" />
 </a>
 
 <br/>
@@ -32,7 +32,7 @@ Barcelona, Spain &nbsp;·&nbsp; Open to junior opportunities
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=62E6FF&center=true&vCenter=true&width=680&lines=Designing+clear%2C+testable+Python+APIs;Exploring+authorization+and+secure+coding;Turning+security+ideas+into+verifiable+projects" alt="Animated profile tagline: Python APIs, secure coding, and verifiable projects" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=62E6FF&center=true&vCenter=true&width=600&lines=Python+Backend+%7C+Application+Security;Designing+clear%2C+testable+APIs;Building+security+into+the+workflow" alt="Animated profile tagline: Python APIs, secure coding, and verifiable projects" />
 
 </div>
 
@@ -40,9 +40,9 @@ Barcelona, Spain &nbsp;·&nbsp; Open to junior opportunities
 
 ## 🧭 The direction
 
-I build and document **Python projects at the intersection of backend engineering and practical application security**. My work explores API design, authentication and authorization, security testing, static analysis, and automation in development workflows.
+I build **Python backend projects with an application-security focus**: APIs, authorization, security testing, static analysis, and developer-workflow automation.
 
-My focus is on making engineering decisions **explicit, testable, and explainable** — including the limits of each experiment. I am looking for a junior software engineering opportunity where I can contribute, learn from experienced engineers, and grow towards Application Security Engineering.
+I value engineering that is **explicit, testable, and explainable** — including honest limits. I’m looking for a junior opportunity where I can contribute, learn from experienced engineers, and grow towards Application Security Engineering.
 
 <div align="center">
 
@@ -53,7 +53,7 @@ My focus is on making engineering decisions **explicit, testable, and explainabl
 
 ## ✦ Featured work
 
-> A curated selection of projects that best represents my current technical direction. Each repository documents its own scope and limitations.
+> Four projects that best represent my current direction. Open each repository for implementation details, setup, and limitations.
 
 <table>
 <tr>
@@ -64,11 +64,11 @@ My focus is on making engineering decisions **explicit, testable, and explainabl
 <img src="https://img.shields.io/badge/Python-AST%20analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python AST analysis" />
 <img src="https://img.shields.io/badge/Security-SAST%20lab-7C5CFC?style=flat-square" alt="SAST learning project" />
 
-A static-analysis learning project identifying selected SQL injection and path-traversal patterns, recording structured audit events, and exploring a security gate in CI.
+Python AST-based static-analysis lab for selected SQL injection and path-traversal patterns, with structured audit logs and a CI security gate.
 
-**Explores:** bounded remediation, a small self-authored benchmark, and local Loki/Grafana observability.
+**Focus:** bounded remediation and local Loki/Grafana observability.
 
-<sub>Scope note: the benchmark contains 10 author-created cases; it does not establish real-world detection accuracy or replace a mature SAST tool.</sub>
+<sub>Limit: its benchmark has 10 self-authored cases; this is not evidence of real-world accuracy or a replacement for mature SAST.</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -78,11 +78,11 @@ A static-analysis learning project identifying selected SQL injection and path-t
 <img src="https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/AuthZ-Policy%20testing-1D9BF0?style=flat-square" alt="Authorization policy testing" />
 
-A FastAPI and PyJWT project exploring centralized authorization for a multi-tenant API, with explicit policy evaluation and a fail-closed approach.
+FastAPI and PyJWT project exploring centralized, fail-closed authorization for a multi-tenant API.
 
-**Explores:** roles, scopes, ownership checks, tenant isolation, and tests for denied requests.
+**Focus:** roles, scopes, ownership, tenant isolation, and denial-path tests.
 
-<sub>Scope note: an educational portfolio project, not a production-ready identity or authorization platform.</sub>
+<sub>Educational project; not a production-ready identity platform.</sub>
 
 </td>
 </tr>
@@ -93,9 +93,7 @@ A FastAPI and PyJWT project exploring centralized authorization for a multi-tena
 
 <img src="https://img.shields.io/badge/Security-Hands--on%20lab-176B87?style=flat-square" alt="Hands-on security lab" />
 
-A practical environment for studying secure software engineering, API security, cryptography, and defensive analysis.
-
-**Focus:** security concepts through an inspectable codebase and documented local setup.
+Hands-on lab for studying secure software engineering, API security, cryptography, and defensive analysis.
 
 </td>
 <td width="50%" valign="top">
@@ -105,11 +103,9 @@ A practical environment for studying secure software engineering, API security, 
 <img src="https://img.shields.io/badge/Python-CLI-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python CLI" />
 <img src="https://img.shields.io/badge/Output-PDF%20reports-BB6BD9?style=flat-square" alt="PDF report generation" />
 
-A Python CLI project that converts structured security findings into PDF reports, with study-oriented mappings to Spanish security and data-protection frameworks.
+Python CLI that turns structured security findings into PDF reports, with study-oriented mappings to Spanish security and data-protection frameworks.
 
-**Focus:** input loading, mapping, report rendering, and automated quality checks.
-
-<sub>Scope note: regulatory mappings are educational references, not legal advice, and should be independently verified.</sub>
+<sub>Regulatory mappings are educational references, not legal advice.</sub>
 
 </td>
 </tr>
@@ -135,11 +131,11 @@ A Python CLI project that converts structured security findings into PDF reports
 
 </div>
 
-I use these technologies across projects and exercises, with depth varying by repository. The icons are a visual index, **not a claim of professional production experience with every tool**.
+Technologies used across projects and exercises; depth varies by repository. Icons are a visual index, **not a claim of professional production experience with every tool**.
 
 ## ⌬ Security labs
 
-Exploratory repositories are intentionally separated from the featured shortlist. They demonstrate learning and experimentation, not commercial or production-ready security products.
+Focused experiments, kept separate from the featured projects. These are learning environments, not commercial security products.
 
 | Lab | What it explores |
 |---|---|
@@ -150,11 +146,11 @@ Exploratory repositories are intentionally separated from the featured shortlist
 | [Network Security Analytics](https://github.com/silvatechf/network-security-analytics) | Network-security data analysis |
 | [AWS Security Foundation](https://github.com/silvatechf/aws-security-foundation) | Cloud-security fundamentals and configuration |
 
-Setup requirements, test coverage, and constraints should always be confirmed in each repository's own documentation. I only test systems I own or am explicitly authorized to assess.
+Check each repository for setup, tests, and limitations. I assess only systems I own or am explicitly authorized to test.
 
 ## ◉ Beyond the core
 
-Full-stack and product work remains part of my broader engineering practice.
+Additional product and full-stack work:
 
 - [MEI em Dia](https://github.com/silvatechf/mei-app) — React/Vite PWA for guided information and local task organization.
 - [AI Job Agent](https://github.com/silvatechf/ai-job-agent) — Java Spring Boot and React application for CV/job-description analysis.
@@ -163,7 +159,7 @@ Full-stack and product work remains part of my broader engineering practice.
 
 ## ↗ Learning in public
 
-Course assignments and coding challenges document progression, but are not presented as equivalent to the featured portfolio projects.
+Coursework and coding challenges that document my progression — distinct from the featured projects:
 
 [Python Cybersecurity OOP](https://github.com/silvatechf/python-cybersec-poo) ·
 [DIO Java Basics](https://github.com/silvatechf/dio-trilha-java-basico) ·
@@ -172,7 +168,7 @@ Course assignments and coding challenges document progression, but are not prese
 [Java Design Patterns](https://github.com/silvatechf/padroes-lab-projeto-java) ·
 [Spring Design Patterns](https://github.com/silvatechf/padroes-lad-projeto-spring)
 
-## ◎ What I’m strengthening next
+## ◎ Current learning priorities
 
 <div align="center">
 
@@ -181,7 +177,7 @@ Threat modeling &nbsp; ◇ &nbsp; Repeatable CI security checks
 
 </div>
 
-### Principles I try to practice
+### Engineering principles
 
 - Prefer explicit, testable security rules over implicit assumptions.
 - Test denial and failure paths as deliberately as success paths.
