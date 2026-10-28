@@ -1,115 +1,209 @@
-# Fernando Silva
+<!--
+  Fernando Silva | GitHub profile
+  Visual direction: midnight navy, electric cyan, soft violet.
+  Motion is decorative and uses animated SVG/GIF assets hosted outside the repository.
+-->
 
-**Junior Python Backend Developer | Application Security (AppSec)**  
-Barcelona, Spain · Open to junior opportunities in Spain
+<div align="center">
 
-I build Python projects focused on backend engineering and practical application security. My current work explores API design, authentication and authorization, security testing, static analysis, and automation in development workflows.
+<a href="https://github.com/silvatechf">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080B18,45:111B37,100:174C70&text=FERNANDO%20SILVA&fontColor=F3F7FF&fontSize=48&fontAlignY=39&desc=PYTHON%20BACKEND%20%E2%80%A2%20APPLICATION%20SECURITY&descAlignY=59&descSize=15&animation=fadeIn" alt="Fernando Silva — Python Backend and Application Security" />
+</a>
 
-I am looking for a junior software engineering opportunity where I can contribute, learn from experienced engineers, and continue growing towards Application Security Engineering.
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/fernando-silva-83b155a4/) · [All repositories](https://github.com/silvatechf?tab=repositories) · [Categorized portfolio map](PORTFOLIO_MAP.md)
+<a href="https://www.linkedin.com/in/fernando-silva-83b155a4/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="https://github.com/silvatechf?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20projects-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+<a href="https://github.com/silvatechf/silvatechf/blob/main/PORTFOLIO_MAP.md">
+  <img src="https://img.shields.io/badge/Portfolio-Project%20map-7C5CFC?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Open portfolio map" />
+</a>
+
+<br/><br/>
+
+### Building useful software. Making security part of the design.
+
+**Junior Python Backend Developer · Application Security (AppSec)**
+
+Barcelona, Spain &nbsp;·&nbsp; Open to junior opportunities
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=62E6FF&center=true&vCenter=true&width=680&lines=Designing+clear%2C+testable+Python+APIs;Exploring+authorization+and+secure+coding;Turning+security+ideas+into+verifiable+projects" alt="Animated profile tagline: Python APIs, secure coding, and verifiable projects" />
+
+</div>
 
 ---
 
-## Featured projects
+## 🧭 The direction
 
-### [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner)
-A Python static-analysis learning project that uses the AST to identify selected vulnerability patterns and records structured audit events.
+I build and document **Python projects at the intersection of backend engineering and practical application security**. My work explores API design, authentication and authorization, security testing, static analysis, and automation in development workflows.
 
-- Detects selected SQL injection and path-traversal patterns.
-- Supports limited automated remediation for a narrowly defined case.
-- Includes a small self-authored benchmark and a CI security gate.
-- Integrates with a local Loki/Grafana observability stack.
+My focus is on making engineering decisions **explicit, testable, and explainable** — including the limits of each experiment. I am looking for a junior software engineering opportunity where I can contribute, learn from experienced engineers, and grow towards Application Security Engineering.
 
-**Limitations:** its benchmark contains only 10 author-created cases. Reported results describe that test corpus and do not establish performance on real-world or production code. This tool is not a replacement for a mature SAST product or a professional security review.
+<div align="center">
 
-### [Authorization Gateway](https://github.com/silvatechf/authorization-gateway)
-A FastAPI and PyJWT project exploring centralized authorization for a multi-tenant API.
+| 01 &nbsp; Backend | 02 &nbsp; AppSec | 03 &nbsp; Engineering |
+|:--:|:--:|:--:|
+| APIs · Python · FastAPI | Secure coding · Authorization · SAST | Tests · CI · Observability |
+</div>
 
-- Demonstrates token verification, roles, scopes, ownership checks, and tenant isolation.
-- Uses explicit policy evaluation and a fail-closed approach.
-- Includes automated tests for authorization boundaries and denied requests.
+## ✦ Featured work
 
-**Scope:** an educational portfolio project, not a production-ready identity or authorization platform.
+> A curated selection of projects that best represents my current technical direction. Each repository documents its own scope and limitations.
 
-### [Secure Data Vault — Threat Intelligence Lab](https://github.com/silvatechf/Secure-Data-Vault-Threat-Intelligence-Lab)
-A hands-on security lab for studying secure software engineering, API security, cryptography, and defensive analysis.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-See the repository documentation for current functionality, setup instructions, and lab limitations.
+### ⌁ [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner)
 
-### [CyberReport-Pro](https://github.com/silvatechf/CyberReport-Pro)
+<img src="https://img.shields.io/badge/Python-AST%20analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python AST analysis" />
+<img src="https://img.shields.io/badge/Security-SAST%20lab-7C5CFC?style=flat-square" alt="SAST learning project" />
+
+A static-analysis learning project identifying selected SQL injection and path-traversal patterns, recording structured audit events, and exploring a security gate in CI.
+
+**Explores:** bounded remediation, a small self-authored benchmark, and local Loki/Grafana observability.
+
+<sub>Scope note: the benchmark contains 10 author-created cases; it does not establish real-world detection accuracy or replace a mature SAST tool.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### ⛨ [Authorization Gateway](https://github.com/silvatechf/authorization-gateway)
+
+<img src="https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/AuthZ-Policy%20testing-1D9BF0?style=flat-square" alt="Authorization policy testing" />
+
+A FastAPI and PyJWT project exploring centralized authorization for a multi-tenant API, with explicit policy evaluation and a fail-closed approach.
+
+**Explores:** roles, scopes, ownership checks, tenant isolation, and tests for denied requests.
+
+<sub>Scope note: an educational portfolio project, not a production-ready identity or authorization platform.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ [Secure Data Vault — Threat Intelligence Lab](https://github.com/silvatechf/Secure-Data-Vault-Threat-Intelligence-Lab)
+
+<img src="https://img.shields.io/badge/Security-Hands--on%20lab-176B87?style=flat-square" alt="Hands-on security lab" />
+
+A practical environment for studying secure software engineering, API security, cryptography, and defensive analysis.
+
+**Focus:** security concepts through an inspectable codebase and documented local setup.
+
+</td>
+<td width="50%" valign="top">
+
+### ▤ [CyberReport-Pro](https://github.com/silvatechf/CyberReport-Pro)
+
+<img src="https://img.shields.io/badge/Python-CLI-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python CLI" />
+<img src="https://img.shields.io/badge/Output-PDF%20reports-BB6BD9?style=flat-square" alt="PDF report generation" />
+
 A Python CLI project that converts structured security findings into PDF reports, with study-oriented mappings to Spanish security and data-protection frameworks.
 
-- Separates input loading, mapping, and report rendering.
-- Includes automated tests and development-quality checks.
-- Generates Spanish-language reports for the intended audience.
+**Focus:** input loading, mapping, report rendering, and automated quality checks.
 
-**Limitations:** regulatory mappings are educational references and should be independently verified; generated reports are not legal advice.
+<sub>Scope note: regulatory mappings are educational references, not legal advice, and should be independently verified.</sub>
 
----
+</td>
+</tr>
+</table>
 
-## Technical focus
+<div align="center">
 
-- **Programming:** Python
-- **Backend:** FastAPI, REST APIs, JWT-based authentication and authorization
-- **Application security:** secure coding fundamentals, authorization testing, static analysis, input handling, and threat modelling
-- **Quality:** pytest, automated tests, linting, and static checks
-- **Tools and delivery:** Git, GitHub Actions, Docker
-- **Observability:** structured audit events, Loki, and Grafana in portfolio projects
+[**Explore the portfolio map →**](PORTFOLIO_MAP.md) &nbsp; · &nbsp; [Browse all repositories →](https://github.com/silvatechf?tab=repositories)
 
-This list describes technologies used in the projects above; it does not imply professional production experience with every tool.
+</div>
 
-## Security labs
+## ⌘ Technical toolkit
 
-These repositories are hands-on labs and exploratory projects. They are kept separate from the featured portfolio projects so readers can distinguish focused experiments from more polished applications.
+<div align="center">
 
-- [Triage Pipeline](https://github.com/silvatechf/triage-pipeline) — behavioral analysis of authentication telemetry.
-- [Async EASM](https://github.com/silvatechf/Async-EASM) — asynchronous attack-surface discovery and scan orchestration for authorized environments.
-- [Spec CTI](https://github.com/silvatechf/spec-cti) — academic threat-intelligence and security-analysis platform.
-- [SSH Monitoring Lab](https://github.com/silvatechf/ssh-monitoring-lab) — security monitoring and event analysis.
-- [Network Security Analytics](https://github.com/silvatechf/network-security-analytics) — network-security data analysis.
-- [AWS Security Foundation](https://github.com/silvatechf/aws-security-foundation) — cloud-security learning and configuration work.
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,pytest,git,githubactions,docker,linux,postgres,js,ts,react,java&perline=7&theme=dark" alt="Technologies used across learning and portfolio projects: Python, FastAPI, Django, pytest, Git, GitHub Actions, Docker, Linux, PostgreSQL, JavaScript, TypeScript, React, and Java" />
 
-These labs are presented as learning and validation environments, not as commercial or production security products. Their individual READMEs should be used to confirm setup requirements, test coverage, and limitations.
+<br/><br/>
 
-## Additional application projects
+<img src="https://img.shields.io/badge/Backend-REST%20APIs%20%7C%20FastAPI-14213D?style=flat-square" alt="Backend: REST APIs and FastAPI" />
+<img src="https://img.shields.io/badge/AppSec-Authorization%20%7C%20Threat%20modeling-302B63?style=flat-square" alt="AppSec: authorization and threat modeling" />
+<img src="https://img.shields.io/badge/Quality-pytest%20%7C%20CI%20%7C%20Static%20checks-0F766E?style=flat-square" alt="Quality: testing, CI, static checks" />
 
-These projects demonstrate broader product and full-stack experience. They are secondary to my current Python backend and AppSec focus.
+</div>
 
-- [MEI em Dia](https://github.com/silvatechf/mei-app) — React/Vite PWA focused on guided information and local task organization.
+I use these technologies across projects and exercises, with depth varying by repository. The icons are a visual index, **not a claim of professional production experience with every tool**.
+
+## ⌬ Security labs
+
+Exploratory repositories are intentionally separated from the featured shortlist. They demonstrate learning and experimentation, not commercial or production-ready security products.
+
+| Lab | What it explores |
+|---|---|
+| [Triage Pipeline](https://github.com/silvatechf/triage-pipeline) | Authentication telemetry and heuristic triage |
+| [Async EASM](https://github.com/silvatechf/Async-EASM) | Asynchronous attack-surface discovery for authorized targets |
+| [Spec CTI](https://github.com/silvatechf/spec-cti) | Threat intelligence and security-analysis workflows |
+| [SSH Monitoring Lab](https://github.com/silvatechf/ssh-monitoring-lab) | Security monitoring and event analysis |
+| [Network Security Analytics](https://github.com/silvatechf/network-security-analytics) | Network-security data analysis |
+| [AWS Security Foundation](https://github.com/silvatechf/aws-security-foundation) | Cloud-security fundamentals and configuration |
+
+Setup requirements, test coverage, and constraints should always be confirmed in each repository's own documentation. I only test systems I own or am explicitly authorized to assess.
+
+## ◉ Beyond the core
+
+Full-stack and product work remains part of my broader engineering practice.
+
+- [MEI em Dia](https://github.com/silvatechf/mei-app) — React/Vite PWA for guided information and local task organization.
 - [AI Job Agent](https://github.com/silvatechf/ai-job-agent) — Java Spring Boot and React application for CV/job-description analysis.
-- [SmartSpend](https://github.com/silvatechf/SmartSpend-Java-React-Python-Fullstack) — Java, React, and Python full-stack finance application.
-- [Wildfire Observer](https://github.com/silvatechf/wildfire-observer) — Python-based geospatial and wildfire-analysis application.
+- [SmartSpend](https://github.com/silvatechf/SmartSpend-Java-React-Python-Fullstack) — multi-technology finance application.
+- [Wildfire Observer](https://github.com/silvatechf/wildfire-observer) — Python-based geospatial and wildfire-analysis project.
 
-## Academic work and coding exercises
+## ↗ Learning in public
 
-Course assignments, guided challenges, and early exercises are part of my learning history, but are intentionally not presented as equivalent to the featured projects above. Examples include:
+Course assignments and coding challenges document progression, but are not presented as equivalent to the featured portfolio projects.
 
-- [Python Cybersecurity OOP](https://github.com/silvatechf/python-cybersec-poo)
-- [DIO Java Basics](https://github.com/silvatechf/dio-trilha-java-basico)
-- [DIO OOP Challenge](https://github.com/silvatechf/Dio_desafio_poo)
-- [Control Flow Challenge](https://github.com/silvatechf/DesafioControleFluxo)
-- [Java Design Patterns Lab](https://github.com/silvatechf/padroes-lab-projeto-java)
-- [Spring Design Patterns Lab](https://github.com/silvatechf/padroes-lad-projeto-spring)
+[Python Cybersecurity OOP](https://github.com/silvatechf/python-cybersec-poo) ·
+[DIO Java Basics](https://github.com/silvatechf/dio-trilha-java-basico) ·
+[DIO OOP Challenge](https://github.com/silvatechf/Dio_desafio_poo) ·
+[Control Flow Challenge](https://github.com/silvatechf/DesafioControleFluxo) ·
+[Java Design Patterns](https://github.com/silvatechf/padroes-lab-projeto-java) ·
+[Spring Design Patterns](https://github.com/silvatechf/padroes-lad-projeto-spring)
 
-I keep these repositories available as evidence of progression and practice. They are not part of the primary shortlist for job applications unless a role specifically asks for the relevant technology or topic.
+## ◎ What I’m strengthening next
 
-## Current learning goals
+<div align="center">
 
-- Strengthen Python backend fundamentals and API design.
-- Improve application-security testing and threat modelling for web applications.
-- Integrate repeatable security checks into development workflows.
-- Make projects easier to install, test, understand, and review.
+Python backend fundamentals &nbsp; ◇ &nbsp; API design &nbsp; ◇ &nbsp; AppSec testing  
+Threat modeling &nbsp; ◇ &nbsp; Repeatable CI security checks
 
-## Engineering principles
+</div>
+
+### Principles I try to practice
 
 - Prefer explicit, testable security rules over implicit assumptions.
-- Test denial and failure paths as deliberately as successful requests.
-- Document limitations and distinguish measured results from assumptions.
-- Test only systems and environments I own or am authorized to assess.
+- Test denial and failure paths as deliberately as success paths.
+- Separate measured results from assumptions, and document limitations.
+- Make projects easier to install, test, understand, and review.
 
 ---
 
-## Contact
+<div align="center">
 
-For professional opportunities and technical discussions, connect with me on [LinkedIn](https://www.linkedin.com/in/fernando-silva-83b155a4/).
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:62E6FF,50:7C5CFC,100:62E6FF&section=footer" width="100%" alt="" />
+
+### Let’s build software that earns trust.
+
+For opportunities, collaboration, or a technical conversation:
+
+<a href="https://www.linkedin.com/in/fernando-silva-83b155a4/">
+  <img src="https://img.shields.io/badge/LinkedIn-Fernando%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fernando Silva on LinkedIn" />
+</a>
+
+<br/><br/>
+
+<sub>Python Backend · Application Security · Barcelona, Spain</sub>
+
+</div>
