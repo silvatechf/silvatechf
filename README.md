@@ -38,7 +38,7 @@ Barcelona, Spain &nbsp;·&nbsp; Open to junior opportunities
 
 ---
 
-## 🧭 The direction
+##  The direction
 
 I build **Python backend projects with an application-security focus**: APIs, authorization, security testing, static analysis, and developer-workflow automation.
 
@@ -59,7 +59,7 @@ I value engineering that is **explicit, testable, and explainable** — includin
 <tr>
 <td width="50%" valign="top">
 
-### ⌁ [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner)
+###  [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner)
 
 <img src="https://img.shields.io/badge/Python-AST%20analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python AST analysis" />
 <img src="https://img.shields.io/badge/Security-SAST%20lab-7C5CFC?style=flat-square" alt="SAST learning project" />
