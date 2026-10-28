@@ -1,8 +1,23 @@
-# Portfolio Repository Map
+# Fernando Silva — Portfolio Map
 
-This index groups repositories by purpose so reviewers can distinguish job-focused projects from security labs, product experiments, and academic exercises.
+**Python Backend · Application Security · Secure Software Development**
 
-> **Curation status:** this is a working inventory based on available READMEs and partial source-tree reviews. Category placement is provisional until each repository's implementation, tests, setup, and maintenance status have been checked. Inclusion is not a claim of production readiness.
+I build projects to understand software from both sides: how to make useful applications work, and how to make their security boundaries clearer, testable, and easier to reason about.
+
+This map is the wider view of my work in progress. It brings together backend projects, application-security experiments, defensive labs, product ideas, and coursework. The goal is not to make every repository look production-ready; it is to make the purpose of each project easy to understand and to give reviewers a clear path to the code and evidence.
+
+## Start here
+
+If you are reviewing my work for a Python Backend or AppSec opportunity, I recommend starting with:
+
+- [Authorization Gateway](https://github.com/silvatechf/authorization-gateway) — API authorization, JWT/JWKS verification, tenant isolation, and policy tests.
+- [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner) — Python static-analysis rules, structured audit events, and a CI security gate.
+- [CyberReport-Pro](https://github.com/silvatechf/CyberReport-Pro) — Python automation that turns structured security findings into PDF reports.
+- [Secure Data Vault & Threat Intelligence Lab](https://github.com/silvatechf/Secure-Data-Vault-Threat-Intelligence-Lab) — a hands-on security learning lab.
+
+Each repository has its own README for setup, implementation details, tests, and limitations.
+
+> **A note on scope:** this is a curated working map, not a blanket claim that every repository is maintained or production-ready. Some entries are experiments or learning exercises, and some still need deeper implementation and test reviews. I prefer to make that distinction explicit rather than overstate what the code proves.
 
 ## 1. Primary backend and AppSec portfolio
 
