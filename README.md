@@ -1,117 +1,80 @@
-<div align="center">
+# Fernando Silva
 
-  <!-- ASSINATURA EXECUTIVA E TÍTULO PRINCIPAL -->
-  <p align="center">
-    <samp>
-      <b>FERNANDO SILVA</b> | FULLSTACK SECURITY ENGINEER
-    </samp>
-  </p>
+**Junior Python Backend Developer | Application Security (AppSec)**  
+Barcelona, Spain · Open to junior opportunities in Spain
 
-  <!-- MOTOR CINÉTICO TYPING SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&height=50&lines=SECURITY+ENGINEERING;BACKEND+ARCHITECTURE;NEURAL+RISK+AUTOMATIONS" alt="Systems Engine" />
+I build Python projects focused on backend engineering and practical application security. My current work explores API design, authentication and authorization, security testing, static analysis, and automation in development workflows.
 
-  <br/>
+I am looking for a junior software engineering opportunity where I can contribute, learn from experienced engineers, and continue growing towards Application Security Engineering.
 
-  <!-- LINHA HUD COM MARCADOR DE PULSO EM BARCELONA -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/%F0%9F%93%8D_LOCATION-BARCELONA%20%E2%80%A2%20SPAIN-00ffaa?style=flat-square&labelColor=111111" alt="Location BCN" />
-    <img src="https://img.shields.io/badge/STACK-PYTHON%20__%20JAVA%2021%20__%20JS-36BCF7?style=flat-square&labelColor=111111" alt="Stack" />
-    <img src="https://img.shields.io/badge/COMPLIANCE-GDPR%20__%20ISO%2027001-5e3aff?style=flat-square&labelColor=111111" alt="Compliance" />
-  </p>
-
-  <br/>
-
-  <!-- CANAIS CHAMATIVOS COM CORES DE ALTA INTENSIDADE -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/fernando-silva-83b155a4/" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/LINKEDIN-_SECURE_CHANNEL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="mailto:fernando.silva@fsf.dev">
-      <img src="https://img.shields.io/badge/EMAIL-_DIRECT_AUDIT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-
-</div>
+[LinkedIn](https://www.linkedin.com/in/fernando-silva-83b155a4/) · [All repositories](https://github.com/silvatechf?tab=repositories)
 
 ---
 
-## 👨‍💻 About Me
+## Featured projects
 
-> "Bridging the gap between robust software engineering and proactive defense."
+### [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner)
+A Python static-analysis learning project that uses the AST to identify selected vulnerability patterns and records structured audit events.
 
-I am a **Software Engineer specializing in Offensive and Defensive Security**. I build scalable monitoring, detection, and incident response tools, seamlessly integrating security into the modern development lifecycle (**DevSecOps**). 
+- Detects selected SQL injection and path-traversal patterns.
+- Supports limited automated remediation for a narrowly defined case.
+- Includes a small self-authored benchmark and a CI security gate.
+- Integrates with a local Loki/Grafana observability stack.
 
-My core differentiator is combining a strong **backend development background (Java/Spring Boot, Python)** with practical, hands-on experience in **Blue Team operations and SOC environments**.
+**Limitations:** its benchmark contains only 10 author-created cases. Reported results describe that test corpus and do not establish performance on real-world or production code. This tool is not a replacement for a mature SAST product or a professional security review.
 
----
+### [Authorization Gateway](https://github.com/silvatechf/authorization-gateway)
+A FastAPI and PyJWT project exploring centralized authorization for a multi-tenant API.
 
-## 🚀 Key Projects & Impact
+- Demonstrates token verification, roles, scopes, ownership checks, and tenant isolation.
+- Uses explicit policy evaluation and a fail-closed approach.
+- Includes automated tests for authorization boundaries and denied requests.
 
-*   **CodeGuard AI**: An operational security auditor built to integrate compliance and vulnerability(GDPR and AI Act) scanning within DevSecOps pipelines.
-*   **Real-Time Triage Pipeline**: Built backend architecture capable of processing logs in real time to accelerate incident triage.
-*   **SOAR & Automation Utilities**: Developed custom Python automation scripts to drastically mitigate alert fatigue for security operations teams.
-*   **SSH Monitoring Labs**: Designed mechanisms to proactively detect and alert unauthorized access attempts.
+**Scope:** an educational portfolio project, not a production-ready identity or authorization platform.
 
----
+### [Secure Data Vault — Threat Intelligence Lab](https://github.com/silvatechf/Secure-Data-Vault-Threat-Intelligence-Lab)
+A hands-on security lab for studying secure software engineering, API security, cryptography, and defensive analysis.
 
-## 🛠️ Languages and Tools
+See the repository documentation for current functionality, setup instructions, and lab limitations.
 
-### 🔒 Security & DevSecOps
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,linux,aws,azure" alt="DevSecOps tools" />
-</p>
+### [CyberReport-Pro](https://github.com/silvatechf/CyberReport-Pro)
+A Python CLI project that converts structured security findings into PDF reports, with study-oriented mappings to Spanish security and data-protection frameworks.
 
-### 💻 Backend & Data
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,flask,django,js,kafka" alt="Backend technologies" />
-</p>
+- Separates input loading, mapping, and report rendering.
+- Includes automated tests and development-quality checks.
+- Generates Spanish-language reports for the intended audience.
 
-### 📊 Databases & Monitoring
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,grafana" alt="Databases and monitoring" />
-</p>
-
----
-
-## 📊 GitHub & Professional Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=silvatechf&show_icons=true&theme=tokyonight&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&bg_color=0f141c&hide_border=false" alt="GitHub Stats" />
-  
-  <br/>
-  <br/>
-
-  <img src="https://img.shields.io/badge/Followers-150%2B-243A5E?style=flat&logo=github&logoColor=white" alt="Followers" /> <img src="https://img.shields.io/badge/Stars_Received-10%2B-243A5E?style=flat&logo=github-sponsors&logoColor=white" alt="Stars" /> <img src="https://img.shields.io/badge/Commits-500%2B-243A5E?style=flat&logo=git&logoColor=white" alt="Commits" />
-</div>
+**Limitations:** regulatory mappings are educational references and should be independently verified; generated reports are not legal advice.
 
 ---
 
-## 🛡️ Cybersecurity Infrastructure & Cloud Hardening
+## Technical focus
 
-<div align="center">
+- **Programming:** Python
+- **Backend:** FastAPI, REST APIs, JWT-based authentication and authorization
+- **Application security:** secure coding fundamentals, authorization testing, static analysis, input handling, and threat modelling
+- **Quality:** pytest, automated tests, linting, and static checks
+- **Tools and delivery:** Git, GitHub Actions, Docker
+- **Observability:** structured audit events, Loki, and Grafana in portfolio projects
 
-  <!-- PRIMEIRA LINHA: NÚCLEO DE CLOUD HARDENING (ELITE CLOUD) -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/AWS_CLOUD-SECURITY__ARCHITECT-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Security" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/GOOGLE_CLOUD-SECURE__INFRASTRUCTURE-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Security" />
-  </p>
+This list describes technologies used in the projects above; it does not imply professional production experience with every tool.
 
-  <!-- SEGUNDA LINHA: OPERAÇÕES AVANÇADAS DE SOC & DETECÇÃO (SIEM / XDR) -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/WAZUH_XDR-ENDPOINT__MONITORING-00A4EF?style=for-the-badge&logo=wazuh&logoColor=white" alt="Wazuh Security" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/SPLUNK_SIEM-DETECTION__ENGINEERING-000000?style=for-the-badge&logo=splunk&logoColor=00FF00" alt="Splunk SOC" />
-  </p>
+## Current learning goals
 
-  <!-- TERCEIRA LINHA: DEFESA ATIVA, CTI E COMPLIANCE GLOBAL -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/THREAT_INTEL-//_CTI__AUTOMATION-00ffaa?style=for-the-badge&logo=virustotal&logoColor=white" alt="Threat Intelligence" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/DEVSECOPS-GDPR_%26_COMPLIANCE-107C41?style=for-the-badge&logo=git&logoColor=white" alt="GDPR Compliance" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <font color="#444444" size="6">✦</font>
-  </p>
+- Strengthen Python backend fundamentals and API design.
+- Improve application-security testing and threat modelling for web applications.
+- Integrate repeatable security checks into development workflows.
+- Make projects easier to install, test, understand, and review.
 
-</div>
+## Engineering principles
+
+- Prefer explicit, testable security rules over implicit assumptions.
+- Test denial and failure paths as deliberately as successful requests.
+- Document limitations and distinguish measured results from assumptions.
+- Test only systems and environments I own or am authorized to assess.
+
+---
+
+## Contact
+
+For professional opportunities and technical discussions, connect with me on [LinkedIn](https://www.linkedin.com/in/fernando-silva-83b155a4/).
