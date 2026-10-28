@@ -29,7 +29,7 @@ This index groups repositories by purpose so reviewers can distinguish job-focus
 - [MICV Runtime](https://github.com/silvatechf/micv-runtime) — runtime/tooling project; review pending.
 
 ### Threat intelligence and research
-- [Spec CTI](https://github.com/silvatechf/spec-cti) — threat-intelligence and security-analysis platform; security PR open.
+- [Spec CTI](https://github.com/silvatechf/spec-cti) — threat-intelligence and security-analysis platform; an environment file was removed from the current tree and ignore rules were added. Git history requires separate review.
 - [Veredict CTI Lite](https://github.com/silvatechf/veredict-cti-lite) — threat-intelligence experiment.
 - [Global Intelligence Engine](https://github.com/silvatechf/Global-Intelligence-Engine) — intelligence aggregation and analysis experiment.
 - [CIEF](https://github.com/silvatechf/CIEF) — security/intelligence project; review pending.
