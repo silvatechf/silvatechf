@@ -7,7 +7,7 @@ I build Python projects focused on backend engineering and practical application
 
 I am looking for a junior software engineering opportunity where I can contribute, learn from experienced engineers, and continue growing towards Application Security Engineering.
 
-[LinkedIn](https://www.linkedin.com/in/fernando-silva-83b155a4/) · [All repositories](https://github.com/silvatechf?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/fernando-silva-83b155a4/) · [All repositories](https://github.com/silvatechf?tab=repositories) · [Categorized portfolio map](PORTFOLIO_MAP.md)
 
 ---
 
