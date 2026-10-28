@@ -59,6 +59,41 @@ A Python CLI project that converts structured security findings into PDF reports
 
 This list describes technologies used in the projects above; it does not imply professional production experience with every tool.
 
+## Security labs
+
+These repositories are hands-on labs and exploratory projects. They are kept separate from the featured portfolio projects so readers can distinguish focused experiments from more polished applications.
+
+- [Triage Pipeline](https://github.com/silvatechf/triage-pipeline) — behavioral analysis of authentication telemetry.
+- [Async EASM](https://github.com/silvatechf/Async-EASM) — asynchronous attack-surface discovery and scan orchestration for authorized environments.
+- [Spec CTI](https://github.com/silvatechf/spec-cti) — academic threat-intelligence and security-analysis platform.
+- [SSH Monitoring Lab](https://github.com/silvatechf/ssh-monitoring-lab) — security monitoring and event analysis.
+- [Network Security Analytics](https://github.com/silvatechf/network-security-analytics) — network-security data analysis.
+- [AWS Security Foundation](https://github.com/silvatechf/aws-security-foundation) — cloud-security learning and configuration work.
+
+These labs are presented as learning and validation environments, not as commercial or production security products. Their individual READMEs should be used to confirm setup requirements, test coverage, and limitations.
+
+## Additional application projects
+
+These projects demonstrate broader product and full-stack experience. They are secondary to my current Python backend and AppSec focus.
+
+- [MEI em Dia](https://github.com/silvatechf/mei-app) — React/Vite PWA focused on guided information and local task organization.
+- [AI Job Agent](https://github.com/silvatechf/ai-job-agent) — Java Spring Boot and React application for CV/job-description analysis.
+- [SmartSpend](https://github.com/silvatechf/SmartSpend-Java-React-Python-Fullstack) — Java, React, and Python full-stack finance application.
+- [Wildfire Observer](https://github.com/silvatechf/wildfire-observer) — Python-based geospatial and wildfire-analysis application.
+
+## Academic work and coding exercises
+
+Course assignments, guided challenges, and early exercises are part of my learning history, but are intentionally not presented as equivalent to the featured projects above. Examples include:
+
+- [Python Cybersecurity OOP](https://github.com/silvatechf/python-cybersec-poo)
+- [DIO Java Basics](https://github.com/silvatechf/dio-trilha-java-basico)
+- [DIO OOP Challenge](https://github.com/silvatechf/Dio_desafio_poo)
+- [Control Flow Challenge](https://github.com/silvatechf/DesafioControleFluxo)
+- [Java Design Patterns Lab](https://github.com/silvatechf/padroes-lab-projeto-java)
+- [Spring Design Patterns Lab](https://github.com/silvatechf/padroes-lad-projeto-spring)
+
+I keep these repositories available as evidence of progression and practice. They are not part of the primary shortlist for job applications unless a role specifically asks for the relevant technology or topic.
+
 ## Current learning goals
 
 - Strengthen Python backend fundamentals and API design.
