@@ -66,7 +66,7 @@ I’m looking for a **junior Python Backend or Application Security opportunity*
 
 ## ✦ Featured work
 
-> These four projects best represent my current direction. Each repository links to its implementation details, setup instructions, and known limitations.
+> These four projects best represent my current direction. I include links to each repository’s implementation details, setup instructions, and known limitations.
 
 <table>
 <tr>
