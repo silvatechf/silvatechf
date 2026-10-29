@@ -21,6 +21,9 @@
 <a href="https://github.com/silvatechf/silvatechf/blob/main/PORTFOLIO_MAP.md">
   <img src="https://img.shields.io/badge/Portfolio-Project%20map-7C5CFC?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Open portfolio map" />
 </a>
+<a href="https://silvatechf-portifolio.vercel.app/#duckyarenas-contribution">
+  <img src="https://img.shields.io/badge/Portfolio-Live%20site-0A7F5A?style=for-the-badge&logo=vercel&logoColor=white" alt="Open live portfolio at the DuckyArenas contribution" />
+</a>
 
 <br/><br/>
 
