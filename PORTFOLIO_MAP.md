@@ -79,6 +79,9 @@ Each repository has its own README for setup, implementation details, tests, and
 
 These repositories show learning progression. They are not presented as equivalent to the featured projects.
 
+### Team-based backend contribution
+- [DuckyArenas — DuckyShop & DuckyBank](https://github.com/Martret92/duckyarenas-team5/pull/87) — academic team project; individual contribution focused on Django shop/catalog and wallet/transaction services, purchase coordination, idempotency, and related tests. [PR #122](https://github.com/Martret92/duckyarenas-team5/pull/122) covers additional idempotency edge-case tests and is listed separately as pending review, not as merged work.
+
 ### Python and cybersecurity fundamentals
 - [Python Cybersecurity OOP](https://github.com/silvatechf/python-cybersec-poo)
 - [UF2176 EC03 Practice](https://github.com/silvatechf/UF2176_EC03_Practica)
