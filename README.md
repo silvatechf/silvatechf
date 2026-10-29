@@ -162,7 +162,7 @@ Check each repository for setup, tests, and limitations. I assess only systems I
 
 Additional product, academic, and full-stack work:
 
-- [DuckyArenas — DuckyShop & DuckyBank contribution](https://github.com/Martret92/duckyarenas-team5/pull/87) — academic team project; my contribution focuses on Django backend components for the shop/catalog, wallet transactions, purchase coordination, and idempotency. [Related idempotency test PR #122](https://github.com/Martret92/duckyarenas-team5/pull/122) remains a separate review item.
+- [DuckyArenas — DuckyShop & DuckyBank contribution](https://github.com/Martret92/duckyarenas-team5/pull/87) — academic team project; my contribution focuses on Django backend components for the shop/catalog, wallet transactions, purchase coordination, and idempotency. [Individual case study](https://github.com/silvatechf/silvatechf-portifolio/blob/main/DUCKYARENAS_CONTRIBUTION.md) · [Related idempotency test PR #122](https://github.com/Martret92/duckyarenas-team5/pull/122) remains a separate review item.
 - [MEI em Dia](https://github.com/silvatechf/mei-app) — React/Vite PWA for guided information and local task organization.
 - [AI Job Agent](https://github.com/silvatechf/ai-job-agent) — Java Spring Boot and React application for CV/job-description analysis.
 - [SmartSpend](https://github.com/silvatechf/SmartSpend-Java-React-Python-Fullstack) — multi-technology finance application.
