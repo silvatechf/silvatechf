@@ -56,14 +56,14 @@ I’m looking for a **junior Python Backend or Application Security opportunity*
 
 ## How I approach a project
 
-- **Start with a concrete problem.** Keep the scope understandable and the intended behavior explicit.
-- **Test the boundary cases.** Include denial paths and failure conditions, not only successful requests.
-- **Make results reviewable.** Document setup, assumptions, tests, and known limitations.
-- **Be precise about maturity.** A learning project or lab is labelled as such; a passing test suite is evidence, not a claim of production readiness.
+- **I start with a concrete problem.** I keep the scope understandable and make the intended behavior explicit.
+- **I test boundary cases.** I include denial paths and failure conditions, not only successful requests.
+- **I make results reviewable.** I document setup, assumptions, tests, and known limitations.
+- **I am precise about maturity.** I label learning projects and labs accordingly; a passing test suite is evidence, not a claim of production readiness.
 
 ## ✦ Featured work
 
-> Four projects that best represent my current direction. Open each repository for implementation details, setup, and limitations.
+> These four projects best represent my current direction. Each repository links to its implementation details, setup instructions, and known limitations.
 
 <table>
 <tr>
@@ -156,7 +156,7 @@ Focused experiments, kept separate from the featured projects. These are learnin
 | [Network Security Analytics](https://github.com/silvatechf/network-security-analytics) | Network-security data analysis |
 | [AWS Security Foundation](https://github.com/silvatechf/aws-security-foundation) | Cloud-security fundamentals and configuration |
 
-Check each repository for setup, tests, and limitations. I assess only systems I own or am explicitly authorized to test.
+I document setup, tests, and limitations in each repository. I assess only systems I own or am explicitly authorized to test.
 
 ## ◉ Beyond the core
 
