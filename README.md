@@ -49,6 +49,8 @@ I’m interested in the details that make software dependable: how an API handle
 
 I’m looking for a **junior Python Backend or Application Security opportunity** where I can contribute, learn through code review, and grow alongside an engineering team.
 
+- [Portfólio online](https://silvatechf-portifolio.vercel.app/) - silvatechf-portifolio.vercel.app
+
 <div align="center">
 
 | Backend | Application security | Engineering habits |
