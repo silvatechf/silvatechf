@@ -79,6 +79,8 @@ An early-stage product-security prototype connecting product and release context
 
 <sub>Technical prototype, not a CRA compliance tool, conformity assessor, or production security service.</sub>
 
+[PR #30 — transactional audit-writer serialization](https://github.com/silvatechf/DeviceTrust/pull/30) · [CI](https://github.com/silvatechf/DeviceTrust/actions/workflows/ci.yml) · [CodeQL](https://github.com/silvatechf/DeviceTrust/actions/workflows/codeql.yml)
+
 
 > These four projects best represent my current direction. I include links to each repository’s implementation details, setup instructions, and known limitations.
 
