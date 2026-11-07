@@ -68,41 +68,13 @@ I’m looking for a **junior Python Backend or Application Security opportunity*
 
 ## ✦ Featured work
 
-### [DeviceTrust](https://github.com/silvatechf/DeviceTrust)
-
-<img src="https://img.shields.io/badge/Python-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="Python and FastAPI" />
-<img src="https://img.shields.io/badge/Product%20Security-SBOM%20%7C%20Audit-7C5CFC?style=flat-square" alt="Product security, SBOM and audit evidence" />
-
-An early-stage product-security prototype connecting product and release context, validated CycloneDX SBOM imports, component-level findings, justified vulnerability triage, and traceable audit evidence.
-
-**Engineering evidence:** serialized concurrent audit writers; domain mutations and audit entries share transaction boundaries, with SQLite/PostgreSQL concurrency and rollback tests.
-
-<sub>Technical prototype, not a CRA compliance tool, conformity assessor, or production security service.</sub>
-
-[PR #30 — transactional audit-writer serialization](https://github.com/silvatechf/DeviceTrust/pull/30) · [CI](https://github.com/silvatechf/DeviceTrust/actions/workflows/ci.yml) · [CodeQL](https://github.com/silvatechf/DeviceTrust/actions/workflows/codeql.yml)
-
-
-> These four projects best represent my current direction. I include links to each repository’s implementation details, setup instructions, and known limitations.
+These projects show complementary parts of my current direction: backend workflows, API security, static analysis, and product-security evidence. They are presented at the same level; each repository documents its own scope, tests, and limitations.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-###  [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner)
-
-<img src="https://img.shields.io/badge/Python-AST%20analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python AST analysis" />
-<img src="https://img.shields.io/badge/Security-SAST%20lab-7C5CFC?style=flat-square" alt="SAST learning project" />
-
-Python AST-based static-analysis lab for selected SQL injection and path-traversal patterns, with structured audit logs and a CI security gate.
-
-**Focus:** bounded remediation and local Loki/Grafana observability.
-
-<sub>Limit: its benchmark has 10 self-authored cases; this is not evidence of real-world accuracy or a replacement for mature SAST.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### ⛨ [Authorization Gateway](https://github.com/silvatechf/authorization-gateway)
+### [Authorization Gateway](https://github.com/silvatechf/authorization-gateway)
 
 <img src="https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/AuthZ-Policy%20testing-1D9BF0?style=flat-square" alt="Authorization policy testing" />
@@ -114,37 +86,56 @@ FastAPI and PyJWT project exploring centralized, fail-closed authorization for a
 <sub>Educational project; not a production-ready identity platform.</sub>
 
 </td>
+<td width="50%" valign="top">
+
+### [DeviceTrust](https://github.com/silvatechf/DeviceTrust)
+
+<img src="https://img.shields.io/badge/Python-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="Python and FastAPI" />
+<img src="https://img.shields.io/badge/Product%20Security-SBOM%20%7C%20Audit-7C5CFC?style=flat-square" alt="Product security, SBOM and audit evidence" />
+
+Early-stage product-security prototype for product/release context, CycloneDX SBOM imports, component findings, justified triage, and traceable audit evidence.
+
+**Engineering evidence:** concurrent audit writers and domain changes share transaction boundaries, tested for concurrency and rollback on SQLite and PostgreSQL.
+
+<sub>Prototype, not a CRA compliance tool or production security service.</sub>
+
+[PR #30](https://github.com/silvatechf/DeviceTrust/pull/30) · [CI](https://github.com/silvatechf/DeviceTrust/actions/workflows/ci.yml) · [CodeQL](https://github.com/silvatechf/DeviceTrust/actions/workflows/codeql.yml)
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ [Secure Data Vault — Threat Intelligence Lab](https://github.com/silvatechf/Secure-Data-Vault-Threat-Intelligence-Lab)
+### [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner)
 
-<img src="https://img.shields.io/badge/Security-Hands--on%20lab-176B87?style=flat-square" alt="Hands-on security lab" />
+<img src="https://img.shields.io/badge/Python-AST%20analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python AST analysis" />
+<img src="https://img.shields.io/badge/Security-SAST%20lab-7C5CFC?style=flat-square" alt="SAST learning project" />
 
-Hands-on lab for studying secure software engineering, API security, cryptography, and defensive analysis.
+Python AST-based static-analysis lab for selected SQL injection and path-traversal patterns, with structured audit logs and a CI security gate.
+
+**Focus:** bounded detection rules and local observability.
+
+<sub>Benchmark uses 10 self-authored cases; not a production SAST replacement.</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### ▤ [CyberReport-Pro](https://github.com/silvatechf/CyberReport-Pro)
+### [DuckyArenas — Shop & Bank contribution](https://github.com/Martret92/duckyarenas-team5/pull/87)
 
-<img src="https://img.shields.io/badge/Python-CLI-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python CLI" />
-<img src="https://img.shields.io/badge/Output-PDF%20reports-BB6BD9?style=flat-square" alt="PDF report generation" />
+<img src="https://img.shields.io/badge/Python-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Backend-Transactions%20%7C%20Testing-1D9BF0?style=flat-square" alt="Backend transactions and testing" />
 
-Python CLI that turns structured security findings into PDF reports, with study-oriented mappings to Spanish security and data-protection frameworks.
+Individual backend contribution to an academic team project: shop/catalog, wallet transactions, purchase coordination, idempotency, and HTTP integration.
 
-<sub>Regulatory mappings are educational references, not legal advice.</sub>
+**Evidence:** [PR #122](https://github.com/Martret92/duckyarenas-team5/pull/122) · [#127](https://github.com/Martret92/duckyarenas-team5/pull/127) · [#129](https://github.com/Martret92/duckyarenas-team5/pull/129) · [#130](https://github.com/Martret92/duckyarenas-team5/pull/130) · [#132](https://github.com/Martret92/duckyarenas-team5/pull/132)
+
+<sub>Academic team contribution; not ownership of the complete project.</sub>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-[**Explore the portfolio map →**](PORTFOLIO_MAP.md) &nbsp; · &nbsp; [Browse all repositories →](https://github.com/silvatechf?tab=repositories)
-
-</div>
+[**Explore the portfolio map →**](PORTFOLIO_MAP.md) · [Browse all repositories →](https://github.com/silvatechf?tab=repositories)
 
 ## ⌘ Technical toolkit
 
