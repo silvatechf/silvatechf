@@ -10,14 +10,13 @@ This map is the wider view of my work in progress. It brings together backend pr
 
 ## Start here
 
-If you are reviewing my work for a Python Backend or AppSec opportunity, I recommend starting with:
+If you are reviewing my work for a Python Backend or AppSec opportunity, these complementary projects provide three useful entry points:
 
+- [Authorization Gateway](https://github.com/silvatechf/authorization-gateway) — secure API design: JWT/JWKS verification, fail-closed authorization, tenant isolation, and policy tests.
+- [DuckyArenas — Shop & Bank contribution](https://github.com/Martret92/duckyarenas-team5/pull/87) — individual Django backend contribution in an academic team project, with transaction, idempotency, and HTTP integration work.
 - [DeviceTrust](https://github.com/silvatechf/DeviceTrust) — product-security evidence prototype: product-scoped SBOM persistence, vulnerability triage, audit-chain integrity, and concurrent-write/rollback testing.
 
-- [Authorization Gateway](https://github.com/silvatechf/authorization-gateway) — API authorization, JWT/JWKS verification, tenant isolation, and policy tests.
-- [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner) — Python static-analysis rules, structured audit events, and a CI security gate.
-- [CyberReport-Pro](https://github.com/silvatechf/CyberReport-Pro) — Python automation that turns structured security findings into PDF reports.
-- [Secure Data Vault & Threat Intelligence Lab](https://github.com/silvatechf/Secure-Data-Vault-Threat-Intelligence-Lab) — a hands-on security learning lab.
+Supporting work includes [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner) for bounded Python AST analysis and CI security checks, and [CyberReport-Pro](https://github.com/silvatechf/CyberReport-Pro) for security-reporting automation.
 
 Each repository has its own README for setup, implementation details, tests, and limitations.
 
@@ -25,10 +24,10 @@ Each repository has its own README for setup, implementation details, tests, and
 
 ## 1. Primary backend and AppSec portfolio
 
-- [DeviceTrust](https://github.com/silvatechf/DeviceTrust) — Python/FastAPI product-security evidence prototype with CycloneDX SBOM imports, product-scoped findings, justified triage, and transactionally serialized audit writes. Early-stage; not a CRA compliance or production security platform.
 - [Authorization Gateway](https://github.com/silvatechf/authorization-gateway) — FastAPI authorization, JWT/JWKS verification, tenant isolation, and policy testing.
+- [DeviceTrust](https://github.com/silvatechf/DeviceTrust) — Python/FastAPI product-security evidence prototype with CycloneDX SBOM imports, product-scoped findings, justified triage, and transactionally serialized audit writes. Early-stage; not a CRA compliance or production security platform.
+- [DuckyArenas — Shop & Bank contribution](https://github.com/Martret92/duckyarenas-team5/pull/87) — individual Django backend contribution in an academic team project, covering shop/catalog, wallet transactions, purchase coordination, idempotency, and HTTP integration. See the [individual case study](https://github.com/silvatechf/silvatechf-portifolio/blob/main/DUCKYARENAS_CONTRIBUTION.md).
 - [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner) — Python AST-based static-analysis learning project with structured audit events.
-- [Secure Data Vault & Threat Intelligence Lab](https://github.com/silvatechf/Secure-Data-Vault-Threat-Intelligence-Lab) — security-focused data handling and threat-intelligence lab.
 - [CyberReport-Pro](https://github.com/silvatechf/CyberReport-Pro) — Python security-reporting project.
 - [MEI em Dia](https://github.com/silvatechf/mei-app) — React/Vite PWA; a complementary product project.
 
