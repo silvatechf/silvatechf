@@ -12,6 +12,8 @@ This map is the wider view of my work in progress. It brings together backend pr
 
 If you are reviewing my work for a Python Backend or AppSec opportunity, I recommend starting with:
 
+- [DeviceTrust](https://github.com/silvatechf/DeviceTrust) — product-security evidence prototype: product-scoped SBOM persistence, vulnerability triage, audit-chain integrity, and concurrent-write/rollback testing.
+
 - [Authorization Gateway](https://github.com/silvatechf/authorization-gateway) — API authorization, JWT/JWKS verification, tenant isolation, and policy tests.
 - [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner) — Python static-analysis rules, structured audit events, and a CI security gate.
 - [CyberReport-Pro](https://github.com/silvatechf/CyberReport-Pro) — Python automation that turns structured security findings into PDF reports.
@@ -23,6 +25,7 @@ Each repository has its own README for setup, implementation details, tests, and
 
 ## 1. Primary backend and AppSec portfolio
 
+- [DeviceTrust](https://github.com/silvatechf/DeviceTrust) — Python/FastAPI product-security evidence prototype with CycloneDX SBOM imports, product-scoped findings, justified triage, and transactionally serialized audit writes. Early-stage; not a CRA compliance or production security platform.
 - [Authorization Gateway](https://github.com/silvatechf/authorization-gateway) — FastAPI authorization, JWT/JWKS verification, tenant isolation, and policy testing.
 - [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner) — Python AST-based static-analysis learning project with structured audit events.
 - [Secure Data Vault & Threat Intelligence Lab](https://github.com/silvatechf/Secure-Data-Vault-Threat-Intelligence-Lab) — security-focused data handling and threat-intelligence lab.
@@ -82,7 +85,7 @@ Each repository has its own README for setup, implementation details, tests, and
 These repositories show learning progression. They are not presented as equivalent to the featured projects.
 
 ### Team-based backend contribution
-- [DuckyArenas — DuckyShop & DuckyBank](https://github.com/Martret92/duckyarenas-team5/pull/87) — academic team project; individual contribution focused on Django shop/catalog and wallet/transaction services, purchase coordination, idempotency, and related tests. [PR #122](https://github.com/Martret92/duckyarenas-team5/pull/122) covers additional idempotency edge-case tests and is listed separately as pending review, not as merged work.
+- [DuckyArenas — DuckyShop & DuckyBank](https://github.com/Martret92/duckyarenas-team5/pull/87) — academic team project; individual contribution focused on Django shop/catalog and wallet/transaction services, purchase coordination, idempotency, and related tests. [PR #122](https://github.com/Martret92/duckyarenas-team5/pull/122), [#127](https://github.com/Martret92/duckyarenas-team5/pull/127), [#129](https://github.com/Martret92/duckyarenas-team5/pull/129), [#130](https://github.com/Martret92/duckyarenas-team5/pull/130), and [#132](https://github.com/Martret92/duckyarenas-team5/pull/132) are merged follow-up contributions covering idempotency tests, the HTTP layer, purchase retry serialization, wallet provisioning, and ERD alignment.
 
 ### Python and cybersecurity fundamentals
 - [Python Cybersecurity OOP](https://github.com/silvatechf/python-cybersec-poo)
