@@ -68,6 +68,18 @@ I’m looking for a **junior Python Backend or Application Security opportunity*
 
 ## ✦ Featured work
 
+### [DeviceTrust](https://github.com/silvatechf/DeviceTrust)
+
+<img src="https://img.shields.io/badge/Python-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="Python and FastAPI" />
+<img src="https://img.shields.io/badge/Product%20Security-SBOM%20%7C%20Audit-7C5CFC?style=flat-square" alt="Product security, SBOM and audit evidence" />
+
+An early-stage product-security prototype connecting product and release context, validated CycloneDX SBOM imports, component-level findings, justified vulnerability triage, and traceable audit evidence.
+
+**Engineering evidence:** serialized concurrent audit writers; domain mutations and audit entries share transaction boundaries, with SQLite/PostgreSQL concurrency and rollback tests.
+
+<sub>Technical prototype, not a CRA compliance tool, conformity assessor, or production security service.</sub>
+
+
 > These four projects best represent my current direction. I include links to each repository’s implementation details, setup instructions, and known limitations.
 
 <table>
@@ -167,7 +179,7 @@ I document setup, tests, and limitations in each repository. I assess only syste
 
 Additional product, academic, and full-stack work:
 
-- [DuckyArenas — DuckyShop & DuckyBank contribution](https://github.com/Martret92/duckyarenas-team5/pull/87) — academic team project; my contribution focuses on Django backend components for the shop/catalog, wallet transactions, purchase coordination, and idempotency. [Individual case study](https://github.com/silvatechf/silvatechf-portifolio/blob/main/DUCKYARENAS_CONTRIBUTION.md) · [Related idempotency test PR #122](https://github.com/Martret92/duckyarenas-team5/pull/122) remains a separate review item.
+- [DuckyArenas — DuckyShop & DuckyBank contribution](https://github.com/Martret92/duckyarenas-team5/pull/87) — academic team project; my contribution focuses on Django backend components for the shop/catalog, wallet transactions, purchase coordination, and idempotency. [Individual case study](https://github.com/silvatechf/silvatechf-portifolio/blob/main/DUCKYARENAS_CONTRIBUTION.md) · [PRs #122](https://github.com/Martret92/duckyarenas-team5/pull/122), [#127](https://github.com/Martret92/duckyarenas-team5/pull/127), [#129](https://github.com/Martret92/duckyarenas-team5/pull/129), [#130](https://github.com/Martret92/duckyarenas-team5/pull/130), and [#132](https://github.com/Martret92/duckyarenas-team5/pull/132) are also merged and document follow-up tests, HTTP integration, purchase concurrency, wallet provisioning, and ERD alignment.
 - [MEI em Dia](https://github.com/silvatechf/mei-app) — React/Vite PWA for guided information and local task organization.
 - [AI Job Agent](https://github.com/silvatechf/ai-job-agent) — Java Spring Boot and React application for CV/job-description analysis.
 - [SmartSpend](https://github.com/silvatechf/SmartSpend-Java-React-Python-Fullstack) — multi-technology finance application.
