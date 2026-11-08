@@ -49,7 +49,7 @@ I’m interested in the details that make software dependable: how an API handle
 
 I’m looking for a **junior Python Backend or Application Security opportunity** where I can contribute, learn through code review, and grow alongside an engineering team.
 
-- [Portfólio online](https://silvatechf-portifolio.vercel.app/) - silvatechf-portifolio.vercel.app
+- [Portfolio website](https://silvatechf-portifolio.vercel.app/) - silvatechf-portifolio.vercel.app
 
 <div align="center">
 
@@ -71,6 +71,39 @@ I’m looking for a **junior Python Backend or Application Security opportunity*
 These projects show complementary parts of my current direction: backend workflows, API security, static analysis, and product-security evidence. They are presented at the same level; each repository documents its own scope, tests, and limitations.
 
 <table>
+<tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner)
+
+<img src="https://img.shields.io/badge/Python-AST%20analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python AST analysis" />
+<img src="https://img.shields.io/badge/Security-SAST%20lab-7C5CFC?style=flat-square" alt="SAST learning project" />
+
+Python AST-based static-analysis lab for selected SQL injection and path-traversal patterns, with structured audit logs and a CI security gate.
+
+**Focus:** bounded detection rules and local observability.
+
+<sub>Benchmark uses 10 self-authored cases; not a production SAST replacement.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [DuckyArenas — Shop & Bank contribution](https://github.com/Martret92/duckyarenas-team5/pull/87)
+
+<img src="https://img.shields.io/badge/Python-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/Backend-Transactions%20%7C%20Testing-1D9BF0?style=flat-square" alt="Backend transactions and testing" />
+
+Individual backend contribution to an academic team project: shop/catalog, wallet transactions, purchase coordination, idempotency, and HTTP integration.
+
+**Evidence:** [PR #122](https://github.com/Martret92/duckyarenas-team5/pull/122) · [#127](https://github.com/Martret92/duckyarenas-team5/pull/127) · [#129](https://github.com/Martret92/duckyarenas-team5/pull/129) · [#130](https://github.com/Martret92/duckyarenas-team5/pull/130) · [#132](https://github.com/Martret92/duckyarenas-team5/pull/132)
+
+<sub>Academic team contribution; not ownership of the complete project.</sub>
+
+</td>
+</tr>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -102,36 +135,8 @@ Early-stage product-security prototype for product/release context, CycloneDX SB
 [PR #30](https://github.com/silvatechf/DeviceTrust/pull/30) · [CI](https://github.com/silvatechf/DeviceTrust/actions/workflows/ci.yml) · [CodeQL](https://github.com/silvatechf/DeviceTrust/actions/workflows/codeql.yml)
 
 </td>
-</tr>
 <tr>
-<td width="50%" valign="top">
 
-### [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner)
-
-<img src="https://img.shields.io/badge/Python-AST%20analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python AST analysis" />
-<img src="https://img.shields.io/badge/Security-SAST%20lab-7C5CFC?style=flat-square" alt="SAST learning project" />
-
-Python AST-based static-analysis lab for selected SQL injection and path-traversal patterns, with structured audit logs and a CI security gate.
-
-**Focus:** bounded detection rules and local observability.
-
-<sub>Benchmark uses 10 self-authored cases; not a production SAST replacement.</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### [DuckyArenas — Shop & Bank contribution](https://github.com/Martret92/duckyarenas-team5/pull/87)
-
-<img src="https://img.shields.io/badge/Python-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/Backend-Transactions%20%7C%20Testing-1D9BF0?style=flat-square" alt="Backend transactions and testing" />
-
-Individual backend contribution to an academic team project: shop/catalog, wallet transactions, purchase coordination, idempotency, and HTTP integration.
-
-**Evidence:** [PR #122](https://github.com/Martret92/duckyarenas-team5/pull/122) · [#127](https://github.com/Martret92/duckyarenas-team5/pull/127) · [#129](https://github.com/Martret92/duckyarenas-team5/pull/129) · [#130](https://github.com/Martret92/duckyarenas-team5/pull/130) · [#132](https://github.com/Martret92/duckyarenas-team5/pull/132)
-
-<sub>Academic team contribution; not ownership of the complete project.</sub>
-
-</td>
 </tr>
 </table>
 
