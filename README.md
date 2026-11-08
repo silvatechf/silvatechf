@@ -72,20 +72,18 @@ These projects show complementary parts of my current direction: backend workflo
 
 <table>
 <tr>
-<tr>
-
 <td width="50%" valign="top">
 
-### [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner)
+### [Authorization Gateway](https://github.com/silvatechf/authorization-gateway)
 
-<img src="https://img.shields.io/badge/Python-AST%20analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python AST analysis" />
-<img src="https://img.shields.io/badge/Security-SAST%20lab-7C5CFC?style=flat-square" alt="SAST learning project" />
+<img src="https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/AuthZ-Policy%20testing-1D9BF0?style=flat-square" alt="Authorization policy testing" />
 
-Python AST-based static-analysis lab for selected SQL injection and path-traversal patterns, with structured audit logs and a CI security gate.
+FastAPI and PyJWT project exploring centralized, fail-closed authorization for a multi-tenant API.
 
-**Focus:** bounded detection rules and local observability.
+**Focus:** roles, scopes, ownership, tenant isolation, and denial-path tests.
 
-<sub>Benchmark uses 10 self-authored cases; not a production SAST replacement.</sub>
+<sub>Educational project; not a production-ready identity platform.</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -103,22 +101,7 @@ Individual backend contribution to an academic team project: shop/catalog, walle
 
 </td>
 </tr>
-</tr>
 <tr>
-<td width="50%" valign="top">
-
-### [Authorization Gateway](https://github.com/silvatechf/authorization-gateway)
-
-<img src="https://img.shields.io/badge/FastAPI-API-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/AuthZ-Policy%20testing-1D9BF0?style=flat-square" alt="Authorization policy testing" />
-
-FastAPI and PyJWT project exploring centralized, fail-closed authorization for a multi-tenant API.
-
-**Focus:** roles, scopes, ownership, tenant isolation, and denial-path tests.
-
-<sub>Educational project; not a production-ready identity platform.</sub>
-
-</td>
 <td width="50%" valign="top">
 
 ### [DeviceTrust](https://github.com/silvatechf/DeviceTrust)
@@ -135,8 +118,20 @@ Early-stage product-security prototype for product/release context, CycloneDX SB
 [PR #30](https://github.com/silvatechf/DeviceTrust/pull/30) · [CI](https://github.com/silvatechf/DeviceTrust/actions/workflows/ci.yml) · [CodeQL](https://github.com/silvatechf/DeviceTrust/actions/workflows/codeql.yml)
 
 </td>
-<tr>
+<td width="50%" valign="top">
 
+### [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner)
+
+<img src="https://img.shields.io/badge/Python-AST%20analysis-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python AST analysis" />
+<img src="https://img.shields.io/badge/Security-SAST%20lab-7C5CFC?style=flat-square" alt="SAST learning project" />
+
+Python AST-based static-analysis lab for selected SQL injection and path-traversal patterns, with structured audit logs and a CI security gate.
+
+**Focus:** bounded detection rules and local observability.
+
+<sub>Benchmark uses 10 self-authored cases; not a production SAST replacement.</sub>
+
+</td>
 </tr>
 </table>
 
