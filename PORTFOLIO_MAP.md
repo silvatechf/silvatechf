@@ -17,9 +17,10 @@ These qualifications provide formal foundations in programming, relational datab
 
 ## Start here
 
-If you are reviewing my work for a Python Backend or AppSec opportunity, these complementary projects provide three useful entry points:
+If you are reviewing my work for a Python Backend or AppSec opportunity, these projects provide complementary evidence across secure API development, backend workflows, and product security:
 
 - [Authorization Gateway](https://github.com/silvatechf/authorization-gateway) — secure API design: JWT/JWKS verification, fail-closed authorization, tenant isolation, and policy tests.
+- [ExposureDetect](https://github.com/silvatechf/exposure_detect) — authorization-first exposure assessment for explicitly scoped IoT and embedded assets, with bounded checks, audit events, and SARIF reporting.
 - [DuckyArenas — Shop & Bank contribution](https://github.com/Martret92/duckyarenas-team5/pull/87) — individual Django backend contribution in an academic team project, with transaction, idempotency, and HTTP integration work.
 - [DeviceTrust](https://github.com/silvatechf/DeviceTrust) — product-security evidence prototype: product-scoped SBOM persistence, vulnerability triage, audit-chain integrity, and concurrent-write/rollback testing.
 
@@ -32,6 +33,7 @@ Each repository has its own README for setup, implementation details, tests, and
 ## 1. Primary backend and AppSec portfolio
 
 - [Authorization Gateway](https://github.com/silvatechf/authorization-gateway) — FastAPI authorization, JWT/JWKS verification, tenant isolation, and policy testing.
+- [ExposureDetect](https://github.com/silvatechf/exposure_detect) — Python/FastAPI exposure-assessment prototype with explicit scan scope, pinned destinations, bounded checks, role-based API access, audit events, and JSON/Markdown/SARIF reporting. Active prototype; only for authorized assets.
 - [DeviceTrust](https://github.com/silvatechf/DeviceTrust) — Python/FastAPI product-security evidence prototype with CycloneDX SBOM imports, product-scoped findings, justified triage, and transactionally serialized audit writes. Early-stage; not a CRA compliance or production security platform.
 - [DuckyArenas — Shop & Bank contribution](https://github.com/Martret92/duckyarenas-team5/pull/87) — individual Django backend contribution in an academic team project, covering shop/catalog, wallet transactions, purchase coordination, idempotency, and HTTP integration. See the [individual case study](https://github.com/silvatechf/silvatechf-portifolio/blob/main/DUCKYARENAS_CONTRIBUTION.md).
 - [AppSec Scanner](https://github.com/silvatechf/AppSec-Scanner) — Python AST-based static-analysis learning project with structured audit events.
