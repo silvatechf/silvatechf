@@ -8,6 +8,13 @@ I build projects to understand software from both sides: how to make useful appl
 
 This map is the wider view of my work in progress. It brings together backend projects, application-security experiments, defensive labs, product ideas, and coursework. The goal is not to make every repository look production-ready; it is to make the purpose of each project easy to understand and to give reviewers a clear path to the code and evidence.
 
+## Education and training
+
+- **IFCD0112 — Programación con lenguajes orientados a objetos y bases de datos relacionales:** training completed in November 2026; official certificate requested from the Servei Públic d'Ocupació de Catalunya (SOC), issuance pending.
+- **IFCD072PO — Ciberseguridad, Hacking Ético:** 300-hour mixed-format training completed in July 2026; provider-issued diploma of achievement dated 3 August 2026.
+
+These qualifications provide formal foundations in programming, relational databases, systems, networks, and cybersecurity. They complement — but do not replace — the implementation and testing evidence in the repositories below.
+
 ## Start here
 
 If you are reviewing my work for a Python Backend or AppSec opportunity, these complementary projects provide three useful entry points:
