@@ -1,6 +1,6 @@
 <!--
   Fernando Silva | GitHub profile
-  Positioning: Python Backend · Application Security · Secure Software Development
+  Positioning: Python Backend · Secure API Development · Application Security (AppSec)
   Documentation language: English
 -->
 
@@ -29,7 +29,7 @@
 
 ### Building useful software. Making security part of the design.
 
-**Python Backend Developer · Application Security (AppSec)**
+**Python Backend Developer · Secure API Development · Application Security (AppSec)**
 
 Barcelona, Spain · Open to junior backend and AppSec opportunities
 
@@ -43,13 +43,13 @@ Barcelona, Spain · Open to junior backend and AppSec opportunities
 
 ## About
 
-I’m a Python developer based in Barcelona, focused on **backend engineering and application security**. I build practical projects to strengthen the way applications are designed, implemented, tested, and operated.
+I’m a Python developer based in Barcelona, focused on **backend engineering and secure API development**, with an application-security perspective.
 
-My interests meet at a concrete engineering question: how do we make software behavior explicit and security controls verifiable? That includes API design, identity and authorization, input validation, vulnerability handling, auditability, automated testing, and security checks in CI.
+I build and test practical software around REST APIs, business logic, relational data, authentication and authorization boundaries, input validation, auditability, and security checks in CI. My work combines personal projects, collaborative Django contributions, and focused security labs.
 
-I use personal projects, collaborative contributions, and security labs to develop these skills. I document implementation choices, test evidence, assumptions, and limitations rather than presenting prototypes as production systems.
+I document implementation decisions, test evidence, assumptions, and limitations — and distinguish working prototypes from production systems.
 
-**Current target:** Junior Python Backend Developer roles, especially in teams that value secure software development and offer room to grow toward AppSec and DevSecOps.
+**Current target:** Junior Python Backend Developer roles where I can contribute to API development and grow further in Application Security (AppSec) and, over time, DevSecOps.
 
 - Portfolio: [silvatechf-portifolio.vercel.app](https://silvatechf-portifolio.vercel.app/)
 - Location: Barcelona, Spain
@@ -66,8 +66,8 @@ These qualifications complement my practical backend and application-security pr
 
 | Python Backend | Application Security | Engineering & Delivery |
 |:--|:--|:--|
-| Python · FastAPI · Django | Secure coding · Authorization | pytest · Automated testing |
-| REST APIs · SQLAlchemy | Input validation · Vulnerability analysis | Git · GitHub Actions |
+| Python · FastAPI · Django · Flask | Secure coding · Authorization | pytest · Automated testing |
+| REST APIs · SQLAlchemy · SQL | Input validation · Vulnerability analysis | Git · GitHub Actions |
 | PostgreSQL · SQLite | Auditability · Security controls | Docker · Linux · CI |
 
 ## Selected projects
@@ -152,6 +152,23 @@ Individual backend contribution to an academic team project, focused on shop/cat
 </table>
 
 [**Explore the portfolio map →**](PORTFOLIO_MAP.md) · [Browse all repositories →](https://github.com/silvatechf?tab=repositories)
+
+### [ExposureDetect](https://github.com/silvatechf/exposure_detect)
+
+<img src="https://img.shields.io/badge/Python-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="Python and FastAPI" />
+<img src="https://img.shields.io/badge/Security-Exposure%20Assessment-7C5CFC?style=flat-square" alt="Exposure assessment" />
+
+An authorization-first prototype for assessing externally observable exposure across explicitly scoped IoT devices, industrial gateways, cameras, and embedded web interfaces.
+
+**Engineering focus**
+- Explicit, expiring scan scope with fail-closed target validation and pinned network destinations.
+- Bounded asynchronous checks for exposed services, HTTP/TLS posture, and selected device protocols.
+- Role-based API access, audit events, and Markdown/JSON/SARIF reporting.
+- Local lab, PostgreSQL-backed persistence, Docker Compose, and CI integration.
+
+<sub>Active prototype — assess only assets you own or are explicitly authorized to test. Real hardware validation and caller-workflow SARIF upload remain pending.</sub>
+
+[Repository](https://github.com/silvatechf/exposure_detect) · [CI](https://github.com/silvatechf/exposure_detect/actions)
 
 ## Security labs
 
