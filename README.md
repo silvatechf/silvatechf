@@ -200,18 +200,40 @@ For the broader archive of coursework and experiments, see the [complete reposit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,pytest,postgres,sqlite,docker,linux,git,githubactions&perline=5&theme=dark" alt="Python, FastAPI, Django, pytest, PostgreSQL, SQLite, Docker, Linux, Git, and GitHub Actions" />
+### Backend engineering
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,sqlite,docker,linux,git,githubactions&perline=5&theme=dark" alt="Python, FastAPI, Django, Flask, PostgreSQL, SQLite, Docker, Linux, Git, and GitHub Actions" />
 
-<img src="https://img.shields.io/badge/Backend-REST%20APIs%20%7C%20SQL-14213D?style=flat-square" alt="Backend: REST APIs and SQL" />
-<img src="https://img.shields.io/badge/AppSec-Authorization%20%7C%20Secure%20coding-302B63?style=flat-square" alt="AppSec: authorization and secure coding" />
-<img src="https://img.shields.io/badge/Delivery-Tests%20%7C%20CI%20%7C%20Static%20checks-0F766E?style=flat-square" alt="Delivery: tests, CI, and static checks" />
+<br/>
+
+<img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/Pydantic-Data%20validation-E92063?style=flat-square" alt="Pydantic data validation" />
+<img src="https://img.shields.io/badge/Alembic-Database%20migrations-6BAA75?style=flat-square" alt="Alembic database migrations" />
+
+### Testing & code quality
+
+<img src="https://img.shields.io/badge/pytest-Testing-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
+<img src="https://img.shields.io/badge/Ruff-Linting%20%26%20formatting-D7FF64?style=flat-square&logo=ruff&logoColor=222222" alt="Ruff" />
+<img src="https://img.shields.io/badge/mypy-Static%20typing-2A6DB2?style=flat-square" alt="mypy" />
+
+### Application security
+
+<img src="https://img.shields.io/badge/Bandit-Python%20SAST-333333?style=flat-square" alt="Bandit static analysis" />
+<img src="https://img.shields.io/badge/CodeQL-Code%20analysis-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub CodeQL" />
+<img src="https://img.shields.io/badge/OWASP-Secure%20development-000000?style=flat-square" alt="OWASP secure development" />
+<img src="https://img.shields.io/badge/CycloneDX-SBOM-005A9C?style=flat-square" alt="CycloneDX SBOM" />
+
+### Delivery & observability
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Loki-Logs-F46800?style=flat-square" alt="Grafana Loki" />
+<img src="https://img.shields.io/badge/Promtail-Log%20collection-F46800?style=flat-square" alt="Promtail" />
+<img src="https://img.shields.io/badge/Grafana-Observability-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
 
 </div>
 
 Technologies shown are used across projects and exercises; depth varies by repository. This is a visual index, **not a claim of professional production experience with every tool**.
-
 ## Engineering principles
 
 - **Security by design:** define trust boundaries, validate inputs, and make authorization explicit.
