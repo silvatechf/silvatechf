@@ -55,6 +55,13 @@ I use personal projects, collaborative contributions, and security labs to devel
 - Location: Barcelona, Spain
 - Languages: Spanish (C1–C2) · English (B1–B2)
 
+## Education & training
+
+- **IFCD0112 — Object-Oriented Programming and Relational Databases:** training completed in November 2026; official professional certificate requested from the Servei Públic d'Ocupació de Catalunya (SOC), issuance pending.
+- **IFCD072PO — Cybersecurity and Ethical Hacking:** 300-hour mixed-format training completed in July 2026; certificate of achievement issued by the training provider in August 2026. Topics included network architecture, Linux and Windows infrastructure, information gathering, scanning, vulnerability analysis, Wi-Fi auditing, exploits, and malware fundamentals.
+
+These qualifications complement my practical backend and application-security projects; they are presented as training, not as professional experience or specialist certifications.
+
 ## Core focus
 
 | Python Backend | Application Security | Engineering & Delivery |
